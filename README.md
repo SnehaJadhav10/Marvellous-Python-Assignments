@@ -1,10 +1,28 @@
-##Marvellous-Python-Assignments
+# Marvellous-Python-Assignments
 
-- **Python_Marvellous:** All Programs Performed in Class
-- **Assignment 1:** Function Definition & Execution
-- **Assignment 2:** Modules & Functions
-- **Assignment 3:** Lists & Data Storage
-- **Assignment 4:** Filter, Map, Reduce
-- **Assignment 5:** Data Type on Condition Logic
-- **Assignment 6:** Loops
-- **Assignment 7:** Lambda Function
+- **Marvellous_Class**: All Programs Performed In Class.
+- **Assignment 1**: Function Definition & Execution.
+- **Assignment 2**: Modules & Functions.
+- **Assignment 3**: Lists & Data Storage.
+- **Assignment 4**: Filter, Map, Reduce.
+- **Assignment 5**: Data Type On Condition Logic.
+- **Assignment 6**: Loops.
+- **Assignment 7**: Lambda Function.
+- **Assignment 8**: Multithreading.
+- **Assignment 9**: Multiprocessing.
+- **Assignment 10**: Filter, Map, Reduce (Re-Practice).
+- **Assignment 11**: Recursion.
+- **Assignment 12**: Object-Oriented Programming (OOP).
+- **Assignment 13**: Object-Oriented Programming (OOP).
+- **Assignment 14**: Object-Oriented Programming (OOP).
+- **Assignment 15**: File Existence, Display, Copy, Compare, Frequency.
+- **Assignment 16**: File Handling Operations Read/Write, Copy, Compare, Count, Clean.
+- **Assignment 17**: Scheduling, Automation Reminder, File Backup.
+- **Assignment 18**: File Existence, Display, Copy, Compare, Frequency (Re-Practice).
+- **Assignment 19**: File Search By Extension, Extension Rename, Dict To Dict Copy, Extension-Based Copy.
+- **Assignment 20**: Duplicate File Detection With Checksum, Deletion, File.Log With Execution Time Tracking.
+- **Assignment 21**: PID of Current Process and  Details Written And Automated Gmail Delivery Of Logs.
+- **Assignment 22**: Script To Delete Duplicate Files Using Checksum, And Email The Log To The User.
+- **Assignment 23**: Introduction To Machine Learning With Basic Model Implementation.
+- **Assignment 24**: Data Preprocessing And Model Training Using Supervised Learning Techniques.
+- **Assignment 25**: Valuation Of ML Models And Automation Of Prediction Workflows.
